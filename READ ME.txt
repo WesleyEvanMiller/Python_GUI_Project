@@ -1,5 +1,0 @@
-This is my solution to your programming skills test.
-
-I had some extra fun with the project. I hope that is alright.
-
-I have included some sample documentation along with the python code. 
